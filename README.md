@@ -3,7 +3,7 @@
 FastAPI service that serves a scikit-learn classifier (StandardScaler + Random Forest)
 trained on the Kaggle Heart Disease dataset. Dockerized and deployed on Render.
 
-**Live URL:** https://YOUR-SERVICE.onrender.com  (Swagger UI at `/docs`)
+**Live URL:** https://heart-disease-api-pkpf.onrender.com  (Swagger UI at `/docs`)
 
 ## Project structure
 ```
